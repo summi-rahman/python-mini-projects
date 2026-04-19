@@ -6,22 +6,24 @@ A collection of Python-based mini projects demonstrating backend fundamentals, f
 
 ## 📂 Project Structure
 
+```text
 python-mini-projects/
 ├── ordering-system/
-│ ├── main.py
-│ └── README.md
+│   ├── main.py
+│   └── README.md
 │
 ├── file-operations/
-│ ├── file_ops.py
-│ ├── sampletext.txt
-│ └── README.md
+│   ├── file_ops.py
+│   ├── sampletext.txt
+│   └── README.md
+```
 
 
 ---
 
 ## ☕ Ordering System
 
-A command-line based food ordering system that simulates a simple billing workflow.
+A command-line-based food ordering system that simulates a simple billing workflow.
 
 ### 🔹 Features
 - Menu display with item prices
@@ -62,14 +64,14 @@ A set of utilities for handling and processing text files.
 
 ### Run Ordering System
 
-cd ordering-system
-python main.py
+- cd ordering-system
+- python main.py
 
 
 ### Run File Operations
 
-cd file-operations
-python file_ops.py
+- cd file-operations
+- python file_ops.py
 
 
 ---
